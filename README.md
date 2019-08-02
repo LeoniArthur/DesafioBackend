@@ -1,12 +1,12 @@
 Utilizado:Java,Maven,Jersey,Tomcat8,PostgresSql
 
 CRUD hospede:
-http://localhost:8080/Rest/restJR/hospede/createHospede
-EX: Entrada esperada:
-{
-	"nome": "Gustavo",
-        "documento": "487775448",
-        "telefone": "1197884552"
+http://localhost:8080/Rest/restJR/hospede/createHospede<br>
+EX: Entrada esperada: <br>
+{<br>
+	"nome": "Gustavo", <br>
+        "documento": "487775448", <br>
+        "telefone": "1197884552" <br>
 }
 
 http://localhost:8080/Rest/restJR/hospede/readHospede
@@ -48,7 +48,8 @@ EX: Entrada esperada:
 	"campo": "nome",
         "dado": "Gustavo",        
 }
-===========================================================
+
+Checkin
 http://localhost:8080/Rest/restJR/Checkin/createCheckin
 //Cria um checkin
 EX: Entrada esperada:
