@@ -74,9 +74,9 @@ EX: Entrada esperada:
 }
 
 http://localhost:8080/Rest/restJR/Checkin/historicoHotel
-//Retorna todas as estadias ja finalizadas e seus preços
+//Retorna todas as estadias ja finalizadas e seus preÃ§os
 
 
 http://localhost:8080/Rest/restJR/Checkin/atuaisHotel
-//Retorna todas as estadias em aberto e seus preços
+//Retorna todas as estadias em aberto e seus preÃ§os
 
